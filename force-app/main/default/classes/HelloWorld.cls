@@ -21,6 +21,10 @@ public class HelloWorld {
 
         Integer c = 8;
 
+        Integer b = 8;
+        
+        Integer c = 8;
+
 
     }
 }
