@@ -6,13 +6,10 @@ public class HelloWorld {
                 System.debug('Hello Wednesday, great2222 world Version 2!');
                         System.debug('Hello Wednesday, great2222 world Version 2!');
 
-                        System.debug('Hello Wednesday, great2222 world Version 2!');
-
-                        System.debug('Hello Wednesday, great2222 world Version 2!');
-		
+                  
         Integer a = 8;
+        
 
-                Integer b = 8;
 
     }
 }
