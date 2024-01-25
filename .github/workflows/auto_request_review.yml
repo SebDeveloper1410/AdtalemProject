@@ -1,4 +1,2 @@
-reviewers:
-  per_author:
-    SebDeveloper1410:
-      - rodolfocg
+- name: Auto Request Review
+uses: necojackarc/auto-request-review@v0.11.0
